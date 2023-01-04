@@ -14,5 +14,10 @@ If you open index.html file located in this same directory, you will see a blank
 
 ---
 
+### Viewing the index.html in the Browser
+
+Use the your machines file explorer and navigate to this folder, or right click on the index.html file in the VS Code Explorer panel and click "Reveal in File Explorer" or if index.html is highlighted press shift + alt + R. Once you see the index.html file in the file explorer double click and your browser will display the file.
+
+
 
 ***Add more machine has low battery need to npm init so there is something to clone...***
